@@ -17,5 +17,5 @@ software development is a slow process
 
 why don't the docs ever address my problem?
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/JacobyDave">@jacobydave</a> <a href="https://twitter.com/newyant">@newyant</a> <a href="https://twitter.com/newyant">@newyant</a> yes, agreed! Any modern language is so big no one knows it all. Frameworks really are harder than the lang</p>&mdash; Mikel Berger (@mikelberger) <a href="https://twitter.com/mikelberger/status/635871479339556864">August 24, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Any modern language is so big no one knows it all. Frameworks really are harder than the lang &mdash; Mikel Berger (@mikelberger) [August 24, 2015](https://twitter.com/mikelberger/status/635871479339556864)
+
